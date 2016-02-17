@@ -15,4 +15,4 @@ and the GitHub preview will apply the markdown formating.
 
 It helps that I know you edit outside of github.
 
-I have copied the file and I'm now changing the copy.
+I have copied the file and I'm now changing the copy. so... time to edit more tightly - not sure what markdownm means
